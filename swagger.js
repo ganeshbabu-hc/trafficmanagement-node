@@ -13,7 +13,7 @@ const doc = {
     description: "Traffic management API documentation",
   },
   host: "",
-  schemes: ["http"],
+  schemes: ["https","http"],
 };
 
 // host: '',      // by default: 'localhost:3000'
